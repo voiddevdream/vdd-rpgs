@@ -72,6 +72,7 @@
                 id: 'thr',
                 name: 'threat',
                 short: 'thr',
+                label: 'Угроза', // Общее базовое название
                 themes: {
                     twd: { name: 'Инфицирование', name_en: 'infestation' },
                     wfr: { name: 'Заражение', name_en: 'infection' }
@@ -87,6 +88,7 @@
                 id: 'psy',
                 name: 'psychosis',
                 short: 'psy',
+                label: 'Психоз', // Общее базовое название
                 themes: {
                     twd: { name: 'Дикость', name_en: 'feralism' },
                     wfr: { name: 'Шёпот', name_en: 'whisper' }
@@ -102,6 +104,7 @@
                 id: 'lck',
                 name: 'luck',
                 short: 'lck',
+                label: 'Удача', // Общее базовое название
                 themes: {
                     twd: { name: 'Удача', name_en: 'luck' },
                     wfr: { name: 'Везение', name_en: 'luck' }
@@ -117,6 +120,7 @@
                 id: 'crd',
                 name: 'credits',
                 short: 'crd',
+                label: 'Кредиты', // Общее базовое название
                 themes: {
                     twd: { name: 'Патронные доллары', name_en: 'bullet_dollars' },
                     wfr: { name: 'Кредиты', name_en: 'credits' }
